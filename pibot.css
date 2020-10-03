@@ -1,0 +1,32 @@
+.mainBody {
+    background-image: url("botbg.png");
+    background-color: white;
+    background-position: left;
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.mainP {
+    width: 100%;
+    font-size: 12vmin;
+    font-family: 'Sen',
+    sans-serif;
+    color: white;
+    text-shadow: 0 0 2vmax black;
+}
+
+.mainDiv {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.mainIframe {
+    width: 100%;
+    font-size: 12vmin;
+    font-family: 'Sen', sans-serif;
+    color: white;
+}

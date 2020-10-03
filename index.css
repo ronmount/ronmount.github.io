@@ -1,0 +1,29 @@
+.mainBody {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.mainP {
+    width: 100%;
+    font-size: 12vmin;
+    font-family: 'Sen',
+    sans-serif;
+    color: white;
+    text-shadow: 0 0 2vmax black;
+}
+
+.mainDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.mainLink {
+    text-decoration: none;
+    color: white;
+}
