@@ -1,7 +1,7 @@
 .mainBody {
     background-image: url("botbg.png");
     background-color: white;
-    background-position: left;
+    background-position: center;
     background-repeat: repeat;
     margin: 0;
     padding: 0;
@@ -22,12 +22,4 @@
     align-items: center;
     justify-content: center;
     height: 100%;
-}
-
-.mainIframe {
-    width: 100%;
-    font-size: 12vmin;
-    font-family: 'Sen', sans-serif;
-    color: white;
-    box-shadow: 0 0 2vmax rgba(0,0,0,1)
 }
