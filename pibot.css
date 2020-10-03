@@ -29,4 +29,5 @@
     font-size: 12vmin;
     font-family: 'Sen', sans-serif;
     color: white;
+    box-shadow: 0 0 2vmax rgba(0,0,0,1)
 }
