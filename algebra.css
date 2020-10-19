@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to top, #7de8ea 0%, #8392a3 100%);
+    width: auto;
+}
+
+.donatebutton {
+    text-align: center;
+    margin-top: 20%;
+    color: #ffffff;
+    text-shadow: 0 0 3px black;
+    font-size: 30px;
+
+}
+
+iframe {
+    box-shadow: 0 0 10px black;
+}
